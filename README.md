@@ -34,5 +34,8 @@
 
 ## 👨‍💻 Coding Journey
 <p>
-  I started my coding journey with Python but later transitioned to Java. One of the biggest resources that helped me strengthen my problem-solving skills was Striver's DSA sheet – his teaching style is truly amazing. Alongside practicing DSA, I’m also building projects with React, constantly learning new technologies, and exploring different aspects of development.
-</p>  
+  I started my coding journey with Python, building a strong foundation in programming basics. Later, I transitioned to Java as per my company’s requirement, which opened the door to understanding object-oriented programming in greater depth.
+One of the biggest resources that helped me improve my problem-solving skills was Striver’s DSA Sheet. The structured roadmap and clear teaching style made learning DSA a lot easier and more enjoyable.
+Alongside daily DSA practice, I actively work on building projects using React to strengthen my frontend development skills. These projects help me apply what I learn and explore modern web technologies.I practice regularly on platforms like LeetCode and GeeksforGeeks to stay consistent and improve my coding speed and logic. My goal is to become a well-rounded software developer who can design scalable solutions and build impactful applications.
+I love exploring new technologies, learning best practices, and continuously pushing myself to grow in both frontend development and problem-solving.
+</p><br/> 
