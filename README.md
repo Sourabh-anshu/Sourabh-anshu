@@ -39,3 +39,4 @@ One of the biggest resources that helped me improve my problem-solving skills wa
 Alongside daily DSA practice, I actively work on building projects using React to strengthen my frontend development skills. These projects help me apply what I learn and explore modern web technologies.I practice regularly on platforms like LeetCode and GeeksforGeeks to stay consistent and improve my coding speed and logic. My goal is to become a well-rounded software developer who can design scalable solutions and build impactful applications.
 I love exploring new technologies, learning best practices, and continuously pushing myself to grow in both frontend development and problem-solving.
 </p><br/> 
+![Leetcode Stats](https://leetcard.jacoblin.cool/assks9831?theme=dark)
